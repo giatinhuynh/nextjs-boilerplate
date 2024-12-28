@@ -12,6 +12,9 @@ This is a boilerplate for integrating Builder.io into a Next.js project.
 6. To create and develop, go to content section and create a new entry for the page model
 7. Continue to develop visually in Builder.io or programmatically in the codebase
 
+- To import content from figma and create an entry for it in Builder.io, you can use the [Builder.io Figma Plugin](https://www.figma.com/community/plugin/747985167520967365/builder-io-ai-powered-figma-to-code-react-vue-tailwind-more)
+- Best Practices: [Here](https://www.builder.io/c/docs/best-practice)
+
 ## Notes
 
 - Add your own components to the `src/components` folder
