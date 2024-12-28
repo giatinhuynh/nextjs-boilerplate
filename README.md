@@ -134,13 +134,13 @@ builder.registerComponent(MyCustomImage, {
 
 This overrides Builder.io's default Image component, allowing you to use your custom MyCustomImage component instead.
 
-### Webhooks
+## Webhooks
 
 Webhooks enable your application to listen for content changes in Builder.io and trigger workflows such as cache invalidation, data synchronization, or automated deployments.
 
 ---
 
-#### Setting Up Model Webhooks
+### Setting Up Model Webhooks
 
 To set up a webhook for a specific model:
 
@@ -156,7 +156,7 @@ Builder.io will send a POST request to the specified endpoint whenever content i
 
 ---
 
-#### Setting Up Global Webhooks
+### Setting Up Global Webhooks
 
 For webhooks that respond to events across all models:
 
