@@ -7,8 +7,10 @@ This is a boilerplate for integrating Builder.io into a Next.js project.
 1. Clone the repository
 2. Run `npm install`
 3. Run `npm run dev`
-4. Check and make sure to add preview URL to the Builder.io's page model settings
-5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Go to Builder.io's space and create a new page model
+5. Add the preview URL to the page model settings
+6. To create and develop, go to content section and create a new entry for the page model
+7. Continue to develop visually in Builder.io or programmatically in the codebase
 
 ## Notes
 
